@@ -1,6 +1,6 @@
 <h1 align="center"> Rock-Paper-Scissors ✊ 🖐 ✌</h1>
 
-<img src="https://imgur.com/1bnaMl2.jpg" width=100%>
+
 
 - 📚 Tech Stacks : HTML, CSS, JavaScript
 - 🎮Play it Live : https://theshreyaa.github.io/Rock-Paper-Scissors/
